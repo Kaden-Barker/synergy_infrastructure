@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Latest Movie Releases</title>
+        <link>http://www.example-movies.com</link>
+        <description>Your source for the latest movie news and reviews</description>
+        <language>en-us</language>
+        <pubDate>Sat, 06 Oct 2024 10:00:00 GMT</pubDate>
+        <lastBuildDate>Sat, 06 Oct 2024 10:00:00 GMT</lastBuildDate>
+        <generator>Movie Feed Generator</generator>
+
+        <item>
+            <title>The Marvels</title>
+            <link>http://www.example-movies.com/the-marvels</link>
+            <description>The Marvels is a superhero film based on the Marvel Comics characters.</description>
+            <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
+            <guid>http://www.example-movies.com/the-marvels</guid>
+        </item>
+
+        <item>
+            <title>Killers of the Flower Moon</title>
+            <link>http://www.example-movies.com/killers-of-the-flower-moon</link>
+            <description>A chilling tale of greed and murder in 1920s Oklahoma.</description>
+            <pubDate>Thu, 03 Oct 2024 12:00:00 GMT</pubDate>
+            <guid>http://www.example-movies.com/killers-of-the-flower-moon</guid>
+        </item>
+
+        <item>
+            <title>Oppenheimer</title>
+            <link>http://www.example-movies.com/oppenheimer</link>
+            <description>A biopic about J. Robert Oppenheimer and the creation of the atomic bomb.</description>
+            <pubDate>Wed, 02 Oct 2024 14:00:00 GMT</pubDate>
+            <guid>http://www.example-movies.com/oppenheimer</guid>
+        </item>
+
+        <item>
+            <title>Barbie</title>
+            <link>http://www.example-movies.com/barbie</link>
+            <description>A whimsical take on the iconic doll and her adventures.</description>
+            <pubDate>Tue, 01 Oct 2024 09:00:00 GMT</pubDate>
+            <guid>http://www.example-movies.com/barbie</guid>
+        </item>
+
+        <item>
+            <title>Dune: Part Two</title>
+            <link>http://www.example-movies.com/dune-part-two</link>
+            <description>The epic continuation of Frank Herbert's sci-fi saga.</description>
+            <pubDate>Mon, 30 Sep 2024 11:00:00 GMT</pubDate>
+            <guid>http://www.example-movies.com/dune-part-two</guid>
+        </item>
+
+    </channel>
+</rss>
