@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Second Sample RSS Feed</title>
+        <link>http://www.example2.com</link>
+        <description>This is a second sample RSS feed</description>
+        <language>en-us</language>
+        <pubDate>Mon, 07 Oct 2024 12:00:00 GMT</pubDate>
+        <lastBuildDate>Mon, 07 Oct 2024 12:00:00 GMT</lastBuildDate>
+        <generator>Second RSS Generator</generator>
+
+        <item>
+            <title>Third Post</title>
+            <link>http://www.example2.com/post3</link>
+            <description>This is the description of the third post.</description>
+            <pubDate>Mon, 07 Oct 2024 10:00:00 GMT</pubDate>
+            <guid>http://www.example2.com/post3</guid>
+        </item>
+
+        <item>
+            <title>Fourth Post</title>
+            <link>http://www.example2.com/post4</link>
+            <description>This is the description of the fourth post.</description>
+            <pubDate>Mon, 07 Oct 2024 11:00:00 GMT</pubDate>
+            <guid>http://www.example2.com/post4</guid>
+        </item>
+
+    </channel>
+</rss>
