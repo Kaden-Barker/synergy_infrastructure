@@ -1,7 +1,9 @@
 from github import Github
 import os
+from dotenv import load_dotenv
 
-GITHUB_TOKEN = os.getenv("GITHUB_PERSONAL_KEY")  # .env not working -- working when hard coded
+load_dotenv()
+GITHUB_TOKEN = os.getenv("GITHUB_PERSONAL_KEY")  
 REPO_NAME = 'Kaden-Barker/synergy_infrastructure' 
 BRANCH_NAME = 'main'  
 FILE_PATH = 'xmlFiles/index.xml'  # Currently hard coded file that is to be uploaded
